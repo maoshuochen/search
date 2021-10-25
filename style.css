@@ -16,7 +16,7 @@ h1 {
 }
 p {
   color: #777;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 .gsc-input {
   font-size: 32px !important;
@@ -32,6 +32,7 @@ p {
 .gsc-control-cse {
   background: none !important;
   border: none !important;
+  padding: 0 !important;
 }
 .gsc-search-button-v2 {
   background: none !important;
