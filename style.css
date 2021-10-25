@@ -1,0 +1,32 @@
+body {
+  margin: 40vh 10vw;
+  background: #e9ebec;
+}
+h1 {
+  font-weight: 100;
+  color: #333;
+}
+.gsc-input {
+  font-size: 32px !important;
+}
+.gsc-input input {
+  font-weight: 100;
+  color: #333;
+}
+.gsc-input-box {
+  border-radius: 30px;
+  padding: 5px 20px;
+}
+.gsc-control-cse {
+  background: none !important;
+  border: none !important;
+}
+.gsc-search-button-v2 {
+  background: none !important;
+  border: none !important;
+  cursor: pointer;
+}
+.gsc-search-button-v2 svg {
+  zoom: 2;
+  fill: #999 !important;
+}
