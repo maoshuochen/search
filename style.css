@@ -6,6 +6,9 @@ h1 {
   font-weight: 100;
   color: #333;
 }
+p {
+  color:#333;
+}
 .gsc-input {
   font-size: 32px !important;
 }
