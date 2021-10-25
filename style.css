@@ -7,7 +7,7 @@ h1 {
   color: #333;
 }
 p {
-  color:#888;
+  color: #777;
 }
 .gsc-input {
   font-size: 32px !important;
@@ -32,4 +32,10 @@ p {
 .gsc-search-button-v2 svg {
   zoom: 2;
   fill: #999 !important;
+}
+@media screen and (min-width: 768px) {
+  .gsc-input-box {
+    border-radius: 5px;
+    padding: 0 5px;
+  }
 }
