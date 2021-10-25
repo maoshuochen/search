@@ -19,6 +19,10 @@ p {
   color: #777;
   margin-bottom: 1.5rem;
 }
+a {
+  color: #777;
+  margin-bottom: 1.5rem;
+}
 .gsc-input {
   font-size: 32px !important;
 }
