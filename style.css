@@ -1,3 +1,6 @@
+* {
+  margin: 0;
+}
 body {
   height: 100vh;
   margin: 0 10vw;
@@ -9,9 +12,11 @@ body {
 h1 {
   font-weight: 100;
   color: #333;
+  margin-bottom: 1rem;
 }
 p {
   color: #777;
+  margin-bottom: 1rem;
 }
 .gsc-input {
   font-size: 32px !important;
