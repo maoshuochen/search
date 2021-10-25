@@ -52,4 +52,7 @@ p {
   .gsc-input {
     font-size: 20px !important;
   }
+  .gsc-search-button-v2 svg {
+    zoom: 1.5;
+  }
 }
