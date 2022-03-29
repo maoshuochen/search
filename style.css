@@ -11,18 +11,27 @@ body {
   font-family: sans-serif;
 }
 h1 {
-  font-weight: 200;
-  color: #333;
-  margin-bottom: 1rem;
+  font-weight: 400;
+  color: #303133;
+  margin-top: 1rem;
 }
 p {
   color: #777;
-  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
 }
 a {
   color: #777;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0;
 }
+
+#add-link {
+  cursor: pointer;
+  text-decoration: underline;
+}
+#tips {
+  visibility: hidden;
+}
+
 .gsst_a {
   margin: 0;
 }

@@ -15,5 +15,24 @@
     <h1>中文调研报告搜索</h1>
     <a href="https://maoshuochen.top/">Created by maoshuochen</a>
     <div class="gcse-search"></div>
+    <a id="add-link">添加到Chrome搜索引擎中</a>
+    <div id="tips">
+      <p>打开 Chrome 设置 > 搜索引擎 > 管理搜索引擎和网站搜索</p>
+      <p>网站搜索 > 添加</p>
+      <p>
+        网站格式填入
+        https://cse.google.com/cse?cx=002931152770451901668:tomyd4ve2jt&q=%s
+      </p>
+      <p>搜索引擎、快捷字词字段可自定义</p>
+    </div>
   </body>
+  <script>
+    document.getElementById("add-link").onclick = function () {
+      if (document.getElementById("tips").style.visibility == "visible") {
+        document.getElementById("tips").style.visibility = "hidden";
+      } else {
+        document.getElementById("tips").style.visibility = "visible";
+      }
+    };
+  </script>
 </html>
