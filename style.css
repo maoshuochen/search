@@ -7,11 +7,11 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: #000;
+  background: #e9ebec;
   font-family: sans-serif;
 }
 h1 {
-  font-weight: 400;
+  font-weight: 00;
   color: #303133;
   margin-top: 1rem;
 }
