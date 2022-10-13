@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: #e9ebec;
+  background: #000;
   font-family: sans-serif;
 }
 h1 {
